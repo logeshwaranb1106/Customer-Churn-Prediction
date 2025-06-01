@@ -6,7 +6,7 @@ A machine learning project to predict customer churn using supervised learning t
 
 Customer churn is a significant issue for businesses, especially in subscription-based services. This project leverages data science and machine learning to:
 
-- Analyze customer behavior
+- Analyze
 - Identify key features contributing to churn
 - Build predictive models for early churn detection
 

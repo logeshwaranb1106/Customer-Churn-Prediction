@@ -1,6 +1,6 @@
 # 📉 Customer Churn Prediction
 
-A machine learning project to predict customer churn using supervised learning techniques. This project aims to identify customers who are likely to leave a service or subscription, enabling proactive retention strategies.
+A machine learning project to predict customer churn using supervised learning techniques. This project aims to identify customers who are likely to leave a service or subscription, enabling proactive retention.
 
 ## 🚀 Project Overview
 

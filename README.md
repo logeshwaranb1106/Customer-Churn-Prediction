@@ -8,7 +8,7 @@ Customer churn is a significant issue for businesses, especially in subscription
 
 - Analyze customer behaviour
 - Identify key features contributing to churn
-- Build predictive models for early churn detection
+- Build predictive models for early 
 
 ## 📂 Project Structure
 
